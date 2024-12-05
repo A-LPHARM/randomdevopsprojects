@@ -1,5 +1,6 @@
 # DevOps Linux Server Setup Assignment
 
+![alt text](68747470733a2f2f696d6775722e636f6d2f7865647a7577792e706e67.png)
 This README provides a step-by-step guide to completing the Linux-based server setup assignment on AWS EC2. The task involves creating users, groups, directories, managing file systems, and performing operations in a Linux environment to simulate real-world DevOps tasks.
 
 ## Requirements
